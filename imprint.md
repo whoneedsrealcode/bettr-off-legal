@@ -9,25 +9,29 @@ lang: de
 
 <p class="meta">Angaben gemäß § 5 DDG</p>
 
-> **Platzhalter — durch deine echten Daten ersetzen.**
-
-REPLACE_FIRMENNAME
-REPLACE_STRASSE_NR
-REPLACE_PLZ_ORT
+PL Core GmbH
+Rohrbacher Str. 5/7
+69115 Heidelberg
 Deutschland
 
 ## Vertreten durch
-REPLACE_NAME
+Geschäftsführer: Philipp Längle
 
 ## Kontakt
-E-Mail: support@bettroff.app
+E-Mail: hello@bettroff.app
 
 ## Registereintrag
-Registergericht: REPLACE_AMTSGERICHT
-Registernummer: REPLACE_HRB
+Eintragung im Handelsregister.
+Registergericht: Amtsgericht Mannheim
+Registernummer: HRB 755445
 
 ## Umsatzsteuer-ID
-Umsatzsteuer-Identifikationsnummer gemäß § 27a UStG: REPLACE_UST_ID
+Umsatzsteuer-Identifikationsnummer gemäß § 27a Umsatzsteuergesetz:
+DE457838784
 
 ## Verantwortlich für den Inhalt nach § 18 Abs. 2 MStV
-REPLACE_NAME, Anschrift wie oben
+Philipp Längle, Anschrift wie oben
+
+## Verbraucherstreitbeilegung
+Wir sind nicht bereit und nicht verpflichtet, an Streitbeilegungsverfahren vor
+einer Verbraucherschlichtungsstelle teilzunehmen.

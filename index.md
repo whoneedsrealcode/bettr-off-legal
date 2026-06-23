@@ -4,7 +4,7 @@ title: Legal
 permalink: /
 ---
 
-# Bettr Off — Legal
+# BETTR OFF — Legal
 
 - [Terms &amp; Conditions](/terms-conditions)
 - [Privacy Policy](/privacy-policy)
